@@ -6,7 +6,7 @@
 - 💬 Ask me about something🤗🤗
 - 📫 How to reach me; swapnika.ucen1@gmail.com
 - 😄 Pronouns:she
-- ⚡ Fun fact: the distance from my home to sun is equal to sun to house
+- ⚡ Fun fact: Commits like “Initial commit 🎉” became a classic dev tradition.
 
 <!---
 swapnika-333/swapnika-333 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
